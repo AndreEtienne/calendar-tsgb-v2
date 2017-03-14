@@ -1,0 +1,25 @@
+baseurl = "http://example.org/"
+title = "Dimension"
+theme = "dimension"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "TSGB Kalender "
+  description = "Beta V2"
+  logo = "fa-calendar"
+  # // copyright = "Untitled"
+
+[languages]
+# [languages.en]
+# languageName = "English"
+# weight = 1
+# title = "Dimension"
+
+[languages.de]
+languageName = "Deutsch"
+weight = 2
+title = "TSGB Kalender"
+description = 'Beta V2'
