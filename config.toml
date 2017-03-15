@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "https://andreetienne.github.io/calendar-tsgb-v2/"
 title = "Dimension"
 theme = "dimension"
 languageCode = "de-de"
