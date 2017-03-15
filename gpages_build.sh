@@ -3,7 +3,7 @@ set -ve
 
 #Define properties.
 build_environment=stage
-gh_pages_repo=
+gh_pages_repo=github.com/AndreEtienne/calendar-tsgb-v2.git
 cname=""
 
 #Get Name and Email for Git config.
@@ -13,7 +13,7 @@ EMAIL=$(git log --pretty=format:"%ae"|head -n1)
 
 #Go in build and make git init then push this to gh-pages.
 cd public
-echo $cname > CNAME
+#echo $cname > CNAME
 git init
 git remote add origin "https://${GH_TOKEN}@${GH_REF}"
 git checkout --orphan gh-pages
