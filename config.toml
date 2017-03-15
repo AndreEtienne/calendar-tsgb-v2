@@ -5,9 +5,10 @@ languageCode = "de-de"
 defaultContentLanguage = "de"
 enableRobotsTXT = true
 disableRSS = true
-favicon = "static/img/tanz.png"
+
 
 [params]
+  favicon = "/img/tanz.png"
   title = "TSGB Kalender "
   description = "Beta V2"
   logo = "fa-calendar"
