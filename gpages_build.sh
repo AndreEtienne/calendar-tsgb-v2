@@ -3,7 +3,7 @@ set -ve
 
 #Define properties.
 build_environment=stage
-gh_pages_repo=github.com/AndreEtienne/calendar-tsgb.git
+gh_pages_repo=github.com/AndreEtienne/www.tsgb-lateinformation.de.git
 cname="www.tsgb-lateinformation.de"
 
 #Get Name and Email for Git config.
