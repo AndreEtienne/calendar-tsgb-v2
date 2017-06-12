@@ -10,7 +10,7 @@ disableRSS = true
 [params]
   favicon = "/img/tanz.png"
   title = "TSGB Kalender "
-  description = "Beta V2"
+  description = "Kalender der Tanzsportgemeinschaft Bietigheim e.V."
   logo = "fa-calendar"
   # // copyright = "Untitled"
 
